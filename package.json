@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "description": "Mega",
   "main": "index.js",
-  "author": "Jake Lee <ferdi@jakelee.co.uk>",
+  "author": "karan rawat <karanrawat2q@gmail.com>",
   "license": "MIT",
   "config": {
     "serviceURL": "https://mega.nz/",
